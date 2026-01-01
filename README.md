@@ -10,7 +10,7 @@
 ![Server-Side Discovery](https://img.shields.io/badge/Service_Discovery-Server--Side-success?style=for-the-badge)
 ![Load Balancing](https://img.shields.io/badge/Load_Balancing-Kubernetes-success?style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-purple?style=for-the-badge&logo=githubactions)
-![Monitoring](https://img.shields.io/badge/Monitoring-K8s_Dashboard-yellow?style=for-the-badge)
+![Monitoring](https://img.shields.io/badge/Monitoring-K8s_Dashboard-yellow?style=for-the-badge) 
 
 
 In this section, I deployed my **EazyBank microservices project** to a cloud provider.  
